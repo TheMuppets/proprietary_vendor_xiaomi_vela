@@ -2115,6 +2115,7 @@ PRODUCT_PACKAGES += \
     libalhLDC \
     libarcsoft_dualcam_refocus \
     libaudio_log_utils \
+    libaudioparsers \
     libaudioroute_ext \
     libcam_meitu \
     libcamxfdalgov7 \
