@@ -1340,7 +1340,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "audio.primary.sdm710",
+    name: "audio.primary.sdm710_prebuilt",
+    stem: "audio.primary.sdm710",
     owner: "xiaomi",
     strip: {
         none: true,

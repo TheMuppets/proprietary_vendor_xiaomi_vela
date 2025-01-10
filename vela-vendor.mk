@@ -2092,7 +2092,7 @@ PRODUCT_PACKAGES += \
     com.vidhance.stats.aec_dmbr \
     com.visidon.node.sr \
     libcam_mttouchgamma \
-    audio.primary.sdm710 \
+    audio.primary.sdm710_prebuilt \
     camera.qcom \
     com.qti.chi.override \
     libBlendScreen \
