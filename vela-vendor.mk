@@ -2092,7 +2092,6 @@ PRODUCT_PACKAGES += \
     com.vidhance.stats.aec_dmbr \
     com.visidon.node.sr \
     libcam_mttouchgamma \
-    audio.primary.sdm710_prebuilt \
     camera.qcom \
     com.qti.chi.override \
     libBlendScreen \
@@ -2107,16 +2106,11 @@ PRODUCT_PACKAGES += \
     libMeituDefocus \
     libPathBlur \
     libVDSuperPhotoAPI \
-    liba2dpoffload \
-    libadm \
     libalCFR \
     libalLDC \
     libalRnBRT_GL_GBWRAPPER \
     libalhLDC \
     libarcsoft_dualcam_refocus \
-    libaudio_log_utils \
-    libaudioparsers \
-    libaudioroute_ext \
     libcam_meitu \
     libcamxfdalgov7 \
     libcamxfdengine \
@@ -2125,9 +2119,6 @@ PRODUCT_PACKAGES += \
     libcom.qti.chinodeutils \
     libffmpeg \
     libgnustl_shared \
-    libhdmiedid \
-    libhdmipassthru \
-    libhfp \
     libhidlcache \
     libmeitucapture \
     libmibokeh_710 \
@@ -2145,12 +2136,8 @@ PRODUCT_PACKAGES += \
     liborb \
     libremosaic_daemon \
     libremosaiclib \
-    libsndmonitor \
-    libspkrprot \
-    libssrec \
     libvidhance \
     vendor.meitu.hardware.camsys@1.0 \
-    libxlog \
     android.hardware.gatekeeper@1.0-impl-qti \
     fingerprint.goodix_fod.default \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
