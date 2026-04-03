@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vela/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/xiaomi/vela/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
     vendor/xiaomi/vela/proprietary/vendor/etc/camera/golden_rear_dc_cal_wt.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/golden_rear_dc_cal_wt.bin \
-    vendor/xiaomi/vela/proprietary/vendor/etc/camera/megviifacepp_0_5_2_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/megviifacepp_0_5_2_model \
     vendor/xiaomi/vela/proprietary/vendor/etc/camera/org.quic.camera.debugdata.DebugDataAWB:$(TARGET_COPY_OUT_VENDOR)/etc/camera/org.quic.camera.debugdata.DebugDataAWB \
     vendor/xiaomi/vela/proprietary/vendor/etc/camera/vidhance_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_calibration \
     vendor/xiaomi/vela/proprietary/vendor/etc/camera_material/altekldc/LDC_packdata_xiaomi_F3B_src1.dat:$(TARGET_COPY_OUT_VENDOR)/etc/camera_material/altekldc/LDC_packdata_xiaomi_F3B_src1.dat \
